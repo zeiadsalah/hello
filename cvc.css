@@ -1,0 +1,25 @@
+.cotaner{
+    margin: 10px;
+    padding: 10px;
+    width: 90%;
+    background-color:cadetblue;
+}
+.navigtionbar{
+    margin: 10px;
+    padding: 10px;
+    width: 960px;
+    background-color:black;
+}
+h1{text-align: center;}
+.footer {
+    position:fixed;
+    left: 0;
+    margin:10px;
+    bottom: 0;
+    width: 90%;
+    background-color: red;
+    color: white;
+    text-align: center;
+}
+li{display:inline;
+margin:10px;}
